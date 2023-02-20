@@ -1,4 +1,4 @@
-# IS1200-lab-4-
+# IS1200-lab-4
 
 ## Questions for Assignment 1
 
